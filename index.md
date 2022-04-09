@@ -1,6 +1,13 @@
-# fruitcake lier
+---
+title: Welcome
+layout: default
+---
+
+
+My Daddy is a fruitcake
 
 133 Antwerpsestraat
+2500 Lier
 
 
 Coffee & healthy tasty food
