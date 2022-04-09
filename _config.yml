@@ -2,6 +2,10 @@ title: fruitcake
 
 sass:
   sass_dir: css
+  style:    compressed
 
 exclude:
 - README.md
+
+safe: true
+lsi: false
