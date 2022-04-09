@@ -18,5 +18,7 @@ h1 {
   font-size: 6em;
 }
 h1 > a {
+  color: #980000;
   text-decoration: none;
+  
 }
