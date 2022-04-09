@@ -17,5 +17,5 @@ Di-Zo 7-15u
 
 ~
 
-[annemie@fruitcakelier.be](annemie@fruitcakelier.be)  
+[annemie@fruitcakelier.be](mailto:annemie@fruitcakelier.be)  
 0494 808 464
