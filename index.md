@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: fruitcake
 layout: default
 ---
 
