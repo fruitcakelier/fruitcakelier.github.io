@@ -21,7 +21,7 @@ header, main, footer {
 
 body {
     margin: 0% auto;
-    max-width: 69%;
+    max-width: 95%;
     line-height: 1.6;
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
@@ -37,7 +37,7 @@ h1,h2,h3 {
     color: #980000;
 }
 h1 {
-    font-size: 6em;
+    font-size: 5em;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -48,7 +48,7 @@ h1 > a {
 h2 {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 8px;
 }
 header {
     display: flex;
