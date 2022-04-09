@@ -1,16 +1,19 @@
-body{
-  margin:40px auto;
-  max-width:650px;
-  line-height:1.6;
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
   font-family: 'Montserrat', sans-serif;
-  font-size:18px;
-  color:#444;
-  padding:0 10px;
+  font-size: 18px;
+  color: #073763;
+  padding: 0 10px;
   text-align: center;
 }
-
-h1,h2,h3{
+h1,h2,h3 {
   font-family: 'Lobster', cursive, serif;
-  font-size: 3em;
   line-height: 1.2;
+  background-color: #d0e0e3;
+  color: #980000;
+}
+h1 {
+  font-size: 6em;
 }
