@@ -1,1 +1,6 @@
 title: fruitcake
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md
