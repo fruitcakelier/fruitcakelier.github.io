@@ -1,5 +1,5 @@
 ---
-title: fruitcake
+title: lier
 layout: default
 ---
 
@@ -7,7 +7,10 @@ layout: default
 
 # [fruitcake](/)
 
+### [fruitcake]
+
 ## Antwerpsestraat 133 Lier
+
 
 di&ndash;zo 7&ndash;15u
 
