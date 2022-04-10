@@ -20,51 +20,52 @@ header, main, footer {
 }
 
 body {
-    margin: 0% auto;
-    max-width: 95%;
-    line-height: 1.6;
+    background-color: #d0e0e3;
+    color: #073763;
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
-    color: #073763;
+    line-height: 1.6;
+    margin: 0% auto;
+    max-width: 95%;
     padding: 0 10px;
     text-align: center;
-    background-color: #d0e0e3;
 }
+
 h1,h2,h3 {
-    font-family: 'Lobster', cursive, serif;
+    font-family: 'Lobster Two', cursive, serif;
     line-height: 1.2;
     background-color: #d0e0e3;
     color: #980000;
 }
+
 h1 {
     font-size: 4.4em;
     margin-top: 0;
     margin-bottom: 0;
 }
+
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.0em;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
-h3 {
-    font-family: 'Lobster Two', cursive, serif;
-    font-size: 4.4em;
-    margin-top: 0;
-    margin-bottom: 0;
-}
+
 header {
     display: flex;
     justify-content: space-between;
     padding: 5% 0;
 }
+
 footer {
     font-size: 12px;
 }
+
 h1 > a {
     color: #980000;
     text-decoration: none;
 }
+
 header a, footer a {
     color: #073763;
 }
