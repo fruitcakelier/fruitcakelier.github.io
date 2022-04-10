@@ -3,7 +3,7 @@ title: fruitcake
 layout: default
 ---
 
-<img src="/images/piece-of-cake.png" alt="piece of cake" height="200" />
+<img src="/images/bird.png" alt="birdy" height="200" />
 
 # [fruitcake](/)
 
