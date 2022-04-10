@@ -1,4 +1,4 @@
-## Fruitcake cafe in Lier, Belgium
+## [fruitcake](http://fruitcakelier.be) cafe in Lier, Belgium
 
 As simple a cafe website as possible. One static page, no JS, no SASS, just HTML and CSS.
 
