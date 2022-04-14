@@ -3,7 +3,7 @@ title: watermelon
 layout: default
 ---
 
-<img src="/images/watermelon.png" alt="watermelon" height="200" />
+<img src="/images/watermelon(1).png" alt="watermelon" height="200" />
 
 # [fruitcake](/)
 
