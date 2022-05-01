@@ -3,7 +3,7 @@ title: lier
 layout: default
 ---
 
-<img src="/images/bird.png" alt="bird" height="200" />
+<img src="/images/sunflower.png" alt="sunflower" height="200" />
 
 # [fruitcake](/)
 
