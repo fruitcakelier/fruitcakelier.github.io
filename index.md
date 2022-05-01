@@ -10,7 +10,7 @@ layout: default
 ## Antwerpsestraat 133
 ## Lier
 
-wo&ndash;za 7&ndash;15u
+opening soon!
 
 0494 808 464
 
